@@ -1,4 +1,4 @@
-### ![Header](https://raw.githubusercontent.com/violinmelody/violinmelody/main/twitter_header_2019.png)
+### ![Header](https://raw.githubusercontent.com/violinmelody/violinmelody/main/vm_header_github.png)
 <!--
 **violinmelody/violinmelody** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
